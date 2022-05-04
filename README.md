@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mohit-alphonic
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning web development
+- 📫 You can reach me at mohit.yadav@alphonic.in
